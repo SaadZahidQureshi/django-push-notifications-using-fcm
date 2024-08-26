@@ -20,7 +20,7 @@ db.sqlite3
 .env
 venv/*
 stripe.exe
-
+secret.txt
 underoneroof-a0b22-firebase-adminsdk-o5yo9-efcfd01051.json
 
 byte-compiled / optimized / DLL files
@@ -82,10 +82,9 @@ Control.system-ca-bundle
 GitHub.sublime-settings 
 
 Visual Studio Code # 
-.vscode/* 
-!.vscode/settings.json 
-!.vscode/tasks.json 
-!.vscode/launch.json 
-!.vscode/extensions.json 
 .history
 "path/to/underoneroof-a0b22-firebase-adminsdk-o5yo9-efcfd01051.json" 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
